@@ -74,7 +74,7 @@ Hey! I'm **Ivo**, a passionate college student who believes that code can change
 If you like what I do and want to support my journey:
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/your-profile">
+  <a href="https://www.buymeacoffee.com/IvoZheng">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </div>
